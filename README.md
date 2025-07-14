@@ -35,7 +35,6 @@
 |----------|------------|----------------|
 | ![ice](assets/buz.png) | ![rain](assets/yagmur-ormani.png) | ![egypt](assets/antik-misir.png) |
 
-_(Note: Please add the actual images to the `assets/` folder.)_
 
 ---
 
@@ -63,11 +62,11 @@ _(Note: Please add the actual images to the `assets/` folder.)_
 ## Screenshots
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="assets/main_menu.png" alt="Main Menu" width="200" />
-  <img src="assets/story_page.png" alt="Game Story" width="200" />
-  <img src="assets/hint1.png" alt="Hint Example" width="200" />
-  <img src="assets/maze.png" alt="Maze" width="200" />
-  <img src="assets/win.png" alt="Winning" width="200" />
+  <img src="assets/main_menu.png" alt="Main Menu" width="400" />
+  <img src="assets/story_page.png" alt="Game Story" width="400" />
+  <img src="assets/hint1.png" alt="Hint Example" width="400" />
+  <img src="assets/maze.png" alt="Maze" width="400" />
+  <img src="assets/win.png" alt="Winning" width="400" />
 </div>
 
 🎥 **Demo Video:** [Watch on YouTube](https://youtu.be/kuPvIW9N2lA?si=dQ4TldWlIAUafaXq)
